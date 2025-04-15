@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e30d10c226fb5834f89c6a4d842e1fa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2650353854316104293
+    second: hot wheels all22_0
+  - first:
+      213: -4910179602762218386
+    second: hot wheels all22_1
+  - first:
+      213: 5197608835804868747
+    second: hot wheels all22_2
+  - first:
+      213: -7942177268188031551
+    second: hot wheels all22_3
+  - first:
+      213: 2697004726976245156
+    second: hot wheels all22_4
+  - first:
+      213: -3678349623773707691
+    second: hot wheels all22_5
+  - first:
+      213: 8073668740534437129
+    second: hot wheels all22_6
+  - first:
+      213: -8001783123274823829
+    second: hot wheels all22_7
+  - first:
+      213: 2741795069470645383
+    second: hot wheels all22_8
+  - first:
+      213: 1935163821498061006
+    second: hot wheels all22_9
+  - first:
+      213: 6480785907533673573
+    second: hot wheels all22_10
+  - first:
+      213: 3463695446613193247
+    second: hot wheels all22_11
+  - first:
+      213: -1349814857185635431
+    second: hot wheels all22_12
+  - first:
+      213: 2155479213570625421
+    second: hot wheels all22_13
+  - first:
+      213: 7960576221762389563
+    second: hot wheels all22_14
+  - first:
+      213: 942837275606541327
+    second: hot wheels all22_15
+  - first:
+      213: 773111411490942547
+    second: hot wheels all22_16
+  - first:
+      213: -466799404300234969
+    second: hot wheels all22_17
+  - first:
+      213: -7397969961130514699
+    second: hot wheels all22_18
+  - first:
+      213: -9122791560383765005
+    second: hot wheels all22_19
+  - first:
+      213: 8902231533069815394
+    second: hot wheels all22_20
+  - first:
+      213: 2003119279103234724
+    second: hot wheels all22_21
+  - first:
+      213: 1407521781485357614
+    second: hot wheels all22_22
+  - first:
+      213: 3393717497465941892
+    second: hot wheels all22_23
+  - first:
+      213: -6122262512416939598
+    second: hot wheels all22_24
+  - first:
+      213: 5099907969160754998
+    second: hot wheels all22_25
+  - first:
+      213: -708959138090461705
+    second: hot wheels all22_26
+  - first:
+      213: -2244851521846767796
+    second: hot wheels all22_27
+  - first:
+      213: -8479583253020842211
+    second: hot wheels all22_28
+  - first:
+      213: 5460644554538362208
+    second: hot wheels all22_29
+  - first:
+      213: -4312659849816698198
+    second: hot wheels all22_30
+  - first:
+      213: 8677896806967307824
+    second: hot wheels all22_31
+  - first:
+      213: 8352263135118326907
+    second: hot wheels all22_32
+  - first:
+      213: 5956728016126933824
+    second: hot wheels all22_33
+  - first:
+      213: -7388322578402514215
+    second: hot wheels all22_34
+  - first:
+      213: 3204230658795614748
+    second: hot wheels all22_35
+  - first:
+      213: -2593449024659136650
+    second: hot wheels all22_36
+  - first:
+      213: 1066097168238898855
+    second: hot wheels all22_37
+  - first:
+      213: 9024604191037710134
+    second: hot wheels all22_38
+  - first:
+      213: 7045111000070015527
+    second: hot wheels all22_39
+  - first:
+      213: 2655722818742464228
+    second: hot wheels all22_40
+  - first:
+      213: 2167817473264866604
+    second: hot wheels all22_41
+  - first:
+      213: 2442037324740505227
+    second: hot wheels all22_42
+  - first:
+      213: -93858330612078997
+    second: hot wheels all22_43
+  - first:
+      213: 2152186983557995113
+    second: hot wheels all22_44
+  - first:
+      213: 3584907647589135426
+    second: hot wheels all22_45
+  - first:
+      213: -2539854643071768158
+    second: hot wheels all22_46
+  - first:
+      213: -7020653047533992827
+    second: hot wheels all22_47
+  - first:
+      213: 5842613204576163666
+    second: hot wheels all22_48
+  - first:
+      213: -9039378597526865941
+    second: hot wheels all22_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hot wheels all22_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 172
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b660363d083bd0800000000000000
+      internalID: -2650353854316104293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 172
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644df1aaa98bdbb0800000000000000
+      internalID: -4910179602762218386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80b493b2bd912840800000000000000
+      internalID: 5197608835804868747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 172
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c55872aad7b7c190800000000000000
+      internalID: -7942177268188031551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 172
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ade7f4828fad6520800000000000000
+      internalID: 2697004726976245156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 172
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552c6438180e3fcc0800000000000000
+      internalID: -3678349623773707691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 172
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9050bb181fe6b0070800000000000000
+      internalID: 8073668740534437129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 138
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670d7705a4f3f090800000000000000
+      internalID: -8001783123274823829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c17bac610dc0620800000000000000
+      internalID: 2741795069470645383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 138
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec054922e351bda10800000000000000
+      internalID: 1935163821498061006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 138
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f6eb327060f950800000000000000
+      internalID: 6480785907533673573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 138
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12748148a4811030800000000000000
+      internalID: 3463695446613193247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 138
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d7ecf98e744de0800000000000000
+      internalID: -1349814857185635431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 138
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8d9dacecc9ed10800000000000000
+      internalID: 2155479213570625421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 104
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36819195e5a97e60800000000000000
+      internalID: 7960576221762389563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 104
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04668db181a51d00800000000000000
+      internalID: 942837275606541327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee7bd8bb4aaba00800000000000000
+      internalID: 773111411490942547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 104
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f025d3a689589f0800000000000000
+      internalID: -466799404300234969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_18
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 104
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f62ec73481255990800000000000000
+      internalID: -7397969961130514699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 112
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5e4631965556180800000000000000
+      internalID: -9122791560383765005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 104
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e48ecc9641b8b70800000000000000
+      internalID: 8902231533069815394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 121
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25fa11f528ccb10800000000000000
+      internalID: 2003119279103234724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_22
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4f075a95888310800000000000000
+      internalID: 1407521781485357614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_23
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 104
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2c705518e81f20800000000000000
+      internalID: 3393717497465941892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a2bd9eaa590ba0800000000000000
+      internalID: -6122262512416939598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 88
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b209074386c640800000000000000
+      internalID: 5099907969160754998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 70
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d9dd8b654926f0800000000000000
+      internalID: -708959138090461705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 70
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f04d24f6fa8d0e0800000000000000
+      internalID: -2244851521846767796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17675845f7725a80800000000000000
+      internalID: -8479583253020842211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 70
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0652ee56a4b18cb40800000000000000
+      internalID: 5460644554538362208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_30
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2169e47ba5624c0800000000000000
+      internalID: -4312659849816698198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 70
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e68c02b251e6870800000000000000
+      internalID: 8677896806967307824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 69
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c7157b11339e370800000000000000
+      internalID: 8352263135118326907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 78
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfcd0129c8aa250800000000000000
+      internalID: 5956728016126933824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 70
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae15c82c7677990800000000000000
+      internalID: -7388322578402514215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 70
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12bde3bec6b77c20800000000000000
+      internalID: 3204230658795614748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_36
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 70
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fdb1e4ad7320cd0800000000000000
+      internalID: -2593449024659136650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeede0e9b98bce00800000000000000
+      internalID: 1066097168238898855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdd4582b5dd3d70800000000000000
+      internalID: 9024604191037710134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 36
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ace52c02345c160800000000000000
+      internalID: 7045111000070015527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_40
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 36
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2b0145d50bd420800000000000000
+      internalID: 2655722818742464228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 36
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2556df9182a51e10800000000000000
+      internalID: 2167817473264866604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 36
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2765220cd3e120800000000000000
+      internalID: 2442037324740505227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_43
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 36
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e7a8785c82bef0800000000000000
+      internalID: -93858330612078997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a9135a8aa1edd10800000000000000
+      internalID: 2152186983557995113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244b127038620c130800000000000000
+      internalID: 3584907647589135426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a49aa8af90ccd0800000000000000
+      internalID: -2539854643071768158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_47
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58409721041a19e90800000000000000
+      internalID: -7020653047533992827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_48
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d4ca01c1251150800000000000000
+      internalID: 5842613204576163666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot wheels all22_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be77428ee0dad8280800000000000000
+      internalID: -9039378597526865941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hot wheels all22_0: -2650353854316104293
+      hot wheels all22_1: -4910179602762218386
+      hot wheels all22_10: 6480785907533673573
+      hot wheels all22_11: 3463695446613193247
+      hot wheels all22_12: -1349814857185635431
+      hot wheels all22_13: 2155479213570625421
+      hot wheels all22_14: 7960576221762389563
+      hot wheels all22_15: 942837275606541327
+      hot wheels all22_16: 773111411490942547
+      hot wheels all22_17: -466799404300234969
+      hot wheels all22_18: -7397969961130514699
+      hot wheels all22_19: -9122791560383765005
+      hot wheels all22_2: 5197608835804868747
+      hot wheels all22_20: 8902231533069815394
+      hot wheels all22_21: 2003119279103234724
+      hot wheels all22_22: 1407521781485357614
+      hot wheels all22_23: 3393717497465941892
+      hot wheels all22_24: -6122262512416939598
+      hot wheels all22_25: 5099907969160754998
+      hot wheels all22_26: -708959138090461705
+      hot wheels all22_27: -2244851521846767796
+      hot wheels all22_28: -8479583253020842211
+      hot wheels all22_29: 5460644554538362208
+      hot wheels all22_3: -7942177268188031551
+      hot wheels all22_30: -4312659849816698198
+      hot wheels all22_31: 8677896806967307824
+      hot wheels all22_32: 8352263135118326907
+      hot wheels all22_33: 5956728016126933824
+      hot wheels all22_34: -7388322578402514215
+      hot wheels all22_35: 3204230658795614748
+      hot wheels all22_36: -2593449024659136650
+      hot wheels all22_37: 1066097168238898855
+      hot wheels all22_38: 9024604191037710134
+      hot wheels all22_39: 7045111000070015527
+      hot wheels all22_4: 2697004726976245156
+      hot wheels all22_40: 2655722818742464228
+      hot wheels all22_41: 2167817473264866604
+      hot wheels all22_42: 2442037324740505227
+      hot wheels all22_43: -93858330612078997
+      hot wheels all22_44: 2152186983557995113
+      hot wheels all22_45: 3584907647589135426
+      hot wheels all22_46: -2539854643071768158
+      hot wheels all22_47: -7020653047533992827
+      hot wheels all22_48: 5842613204576163666
+      hot wheels all22_49: -9039378597526865941
+      hot wheels all22_5: -3678349623773707691
+      hot wheels all22_6: 8073668740534437129
+      hot wheels all22_7: -8001783123274823829
+      hot wheels all22_8: 2741795069470645383
+      hot wheels all22_9: 1935163821498061006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

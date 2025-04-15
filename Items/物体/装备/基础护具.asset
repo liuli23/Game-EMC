@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf6c3c23668e6949b51b3f1b5492891, type: 3}
+  m_Name: "\u57FA\u7840\u62A4\u5177"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u57FA\u7840\u62A4\u5177"
+  icon: {fileID: 6350854179202653753, guid: 89117fdc21f0ded4da4a6aa03aaab5ae, type: 3}
+  itemId: c79332687e19fe5459ad4413a8a1dcaf
+  dropChance: 30
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffect: []
+  strength: 0
+  agility: 0
+  intellgence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  maxHp: 20
+  armor: 2
+  evasion: 0
+  magicResistance: 0
+  firDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterial:
+  - data: {fileID: 11400000, guid: b8f4bb2f803affc4682c0dbb0dc1457a, type: 2}
+    stackSize: 1
+  - data: {fileID: 11400000, guid: 00abf0fcc2e33dc459be56eabaebb999, type: 2}
+    stackSize: 1
